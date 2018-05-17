@@ -38,7 +38,9 @@ Open your Windower settings.xml file in your choice of editing software(notepad+
 Now the memloc finder "KparserMemloc.exe" should be able to locate the game whenever the file is ran. It should open a window similar to the command prompt. The letters and numbers following "Chat Memory Offset:" are what you're after. This is the memloc. The current version of the game is off by 8 bytes, so whatever numbers show up for the memloc, you will have to add 8 to it. They're displayed in hexadecimal though, and digits for hex only go up to 9 in numbers, then switch to letters following the number 9. So for example, say the memloc says it's 61bf33. Then the correct edit you make to the memloc in Kparser to reflect this would be 61bf3B. Because 3 + 8 = 11 
 
 in Hexadecimal  A = 10
+		
 		B = 11
+		
 		C = 12   etc. all the way to the letter F
 
 ---------------------------------------------------------------------------------------------------------------
