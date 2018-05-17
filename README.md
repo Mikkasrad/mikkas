@@ -49,13 +49,13 @@ the current chat memory offset the memloc finder gives you is: 61BF30
 ---------------------------------------------------------------------------------------------------------------
 
 For the private server SuperNova 
-the current chat memory offset the memloc finder gives you is: 61BF30
+the current chat memory offset the memloc finder gives you is: 64F3F0
 
-****the corrected memloc however(the one you input into Kparser)for this current version is: 61BF38
+****the corrected memloc however(the one you input into Kparser)for this current version is: 64F3F8
 ---------------------------------------------------------------------------------------------------------------
 
 For All servers
-In the KParser program itself take the memloc you acquired from the memloc finder input into the Tools > Options > Chat Log in RAM (Memory Offset address). Your KParser should now work.
+In the KParser program itself take the memloc you acquired from the memloc finder, and input into the Tools > Options > Chat Log in RAM (Memory Offset address). Your KParser should now work.
 
 
 ***Every time the server gets updated with a new version, it will likely change the memloc. You will know this if Kparser no longer works. You will have to run the memloc finder again to find out the new memloc and add 8 to it like previously mentioned, to get KParser to be able to read the FFXI's memory again.
