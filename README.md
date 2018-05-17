@@ -1,4 +1,4 @@
-**ALL credit is given to Kinematics the original developer of the KParser program, and additionally to atom0s who identified the issue with why KParser would no longer read the game's memory or chat logs, in addition to being the original developer of the Memloc Finder program.
+****ALL credit is given to Kinematics the original developer of the KParser program, and additionally to atom0s who identified the issue with why KParser would no longer read the game's memory or chat logs, in addition to being the original developer of the Memloc Finder program.
 
 
 ------------ These directions are also located in the "READ ME" file located in the Kparser Memloc Finder folder -----------
