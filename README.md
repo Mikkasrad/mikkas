@@ -12,6 +12,7 @@ Most private servers use xiloader, or some other proprietary launcher, so you'll
 
 
 -----------------------------FOR ASHITA USERS-----------------------------
+
 Create a folder within your Ashita Folder and name it something, I went with "nasomi-bootmod" to differentiate between the original folder path used which is "ffxi-bootmod" but you can name it whatever you want as long as it's reflected accurately in the line of text below.
 
 now in the ffxi-bootmod folder, take the file boot.exe and place it into the folder you just created. Rename "boot" to "pol"
